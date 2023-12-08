@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+    <channel>
+        <title>NASA</title>
+        <atom:link href="https://www.nasa.gov/news-release/feed/" rel="self"
+            type="application/rss+xml" />
+        <link>https://www.nasa.gov</link>
+        <description>Official National Aeronautics and Space Administration Website</description>
+        <lastBuildDate>Wed, 06 Dec 2023 17:00:19 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>
+            hourly </sy:updatePeriod>
+        <sy:updateFrequency>
+            1 </sy:updateFrequency>
+        <generator>https://wordpress.org/?v=6.3.2</generator>
+        <item>
+            <title>Six Finalists Named in NASA’s $3.5 Million Break the Ice Challenge</title>
+            <link>
+                https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/six-finalists-named-in-nasas-3-5-million-break-the-ice-challenge/</link>
+
+            <dc:creator><![CDATA[Beth Ridgeway]]></dc:creator>
+            <pubDate>Wed, 06 Dec 2023 16:50:04 +0000</pubDate>
+            <category><![CDATA[Centennial Challenges]]></category>
+            <category><![CDATA[Centennial Challenges News]]></category>
+            <category><![CDATA[Marshall Space Flight Center]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?p=575669</guid>
+
+            <description><![CDATA[By Savannah Bullard The stage is set for the finale of NASA’s Break the Ice Lunar Challenge. Conceived in 2020, Break the Ice tasked innovators with creating robotic systems that can traverse the volatile terrain of the Lunar South Pole. These robots must be able to dig into the Moon’s regolith – the dusty, icy [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full wp-block-nasa-blocks-article-intro"><div class="width-full maxw-full article-header"><div class="margin-bottom-2 width-full maxw-full"><p class="label carbon-60 margin-0 margin-bottom-3 padding-0">4 min read</p><h1 class="display-48 margin-bottom-2">Preparations for Next Moonwalk Simulations Underway (and Underwater)</h1></div></div></div>
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><img fetchpriority="high" width="1600" height="1067" src="https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?w=1600" class="attachment-2048x2048 size-2048x2048" alt="A Graphic of the Break the Ice Lunar Challenge Logo placed on a photo of the Moon." decoding="async" style="transform: scale(1.2); transform-origin: 30% 27%; object-position: 30% 27%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png 1600w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1200,800 1200w" sizes="(max-width: 1600px) 100vw, 1600px" loading="eager" /></figure></div></div></div>
+
+
+<p><em>By Savannah Bullard</em></p>
+
+
+
+<p>The stage is set for the finale of <a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing/centennial-challenges/break-the-ice-challenge/">NASA’s Break the Ice Lunar Challenge.</a></p>
+
+
+
+<p><a href="https://www.nasa.gov/centers-and-facilities/marshall/dig-in-nasa-challenge-seeks-innovations-to-excavate-moon-resources/">Conceived in 2020,</a> Break the Ice tasked innovators with creating robotic systems that can traverse the volatile terrain of the Lunar South Pole. These robots must be able to dig into the Moon’s regolith – the dusty, icy “dirt” that makes up the lunar surface – and transport it to a secondary location for <a href="https://www.nasa.gov/mission/in-situ-resource-utilization-isru/">in-situ resource utilization</a> (ISRU) processing.</p>
+
+
+
+<p>If deployed on a NASA mission, these systems would operate in the <a href="https://lunar.gsfc.nasa.gov/images/lithos/LRO%20litho5-shadowedFinal.pdf" rel="noopener">permanently shadowed regions</a> of the Moon, an area that receives no sunlight. These technologies must survive bitterly cold conditions and cannot rely on solar power regeneration. If successful, NASA can excavate the regolith from this area and use the resources derived from the materials, like frozen water, to aid astronauts living on the Moon.</p>
+
+
+
+<p>“Our goal is to provide solutions to make living on the Moon a reality, and Break the Ice directly contributes to that mission,” said <a href="https://www.nasa.gov/people/denise-morris/">Denise Morris,</a> program manager for NASA’s Centennial Challenges. “Excavating lunar regolith before humans arrive on the Moon will allow us to find uses for that material before they get there – if we could build a lunar habitat out of the regolith or extract the water for our astronauts to drink, that means less mass on our vehicles and less work for our crews.”</p>
+
+
+
+<p>Phase 1 of the competition focused on designing systems that could achieve three components: excavation, travel, and delivery. Of the 31 teams who submitted eligible proposals, <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-awards-500000-in-break-the-ice-lunar-challenge/">13 won cash prizes</a> ranging from $25,000 to $125,000.</p>
+
+
+
+<p><a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-opens-second-phase-of-3-5-million-lunar-excavation-competition/">Phase 2: Level 1 opened in June 2022.</a> Consisting of Phase 1 winners and newcomers, 25 teams developed their initial designs into prototypes with technical reports, engineering designs, and test plans. Six months later, <a href="https://www.nasa.gov/technology/manufacturing-materials-3-d-printing/top-teams-advance-in-nasas-break-the-ice-lunar-challenge/">13 U.S. semifinalists were named,</a> each earning an equal share of $500,000. Two international teams were also recognized as semifinalists, though they were not eligible to receive monetary prizes from NASA.</p>
+
+
+
+<p>In Phase 2: Level 2, the finalist pool comprised of garage inventors, academics, industry professionals, and hobbyists from 11 U.S. states, the Netherlands, and India. Nine of these teams attempted a 15-day demonstration trial at their own testing sites to prove the capabilities of their prototypes. The teams live-streamed the tests and took turns hosting representatives from Centennial Challenges for in-person observations.</p>
+
+
+
+<p>“What impresses me the most with this batch of competitors is their innate ability to each find unique ways to approach the solution,” said Break the Ice Challenge Manager <a href="https://www.nasa.gov/people/naveen-vetcha/">Naveen Vetcha,</a> who supports Centennial Challenges through Jacobs Space Exploration Group. “Each site visit provided our subject matter experts with new ways to think about this technology and operations, and some of these teams expanded our expectations for how to bridge this technology gap.”</p>
+
+
+
+<p>The Phase 2: Level 2 winning teams are:</p>
+
+
+
+<p><strong>1<sup>st</sup> Place ($300,000):</strong> Starpath Robotics (San Francisco, CA)</p>
+
+
+
+<p><strong>2<sup>nd</sup> Place ($200,000):</strong> Terra Engineering (Gardena, CA)</p>
+
+
+
+<p><strong>3<sup>rd</sup> Place ($125,000):</strong> The Ice Diggers (Golden, CO)</p>
+
+
+
+<p><strong>Runners Up ($75,000 each):</strong></p>
+
+
+
+<ul>
+<li>Cislune Excavators (Los Angeles, CA)</li>
+
+
+
+<li>Space Trajectory (Brookings, SD)</li>
+
+
+
+<li>MTU Planetary Surface Technology Development Lab (Houghton, MI)</li>
+</ul>
+
+
+
+<p>In this last round of competitions, scheduled to take place in the spring of 2024, the above winners will bring their prototypes to a NASA-designated test facility for a series of head-to-head matchups. Expected testing includes excavation under reduced gravity – using gravity off-loading – and transportation over complex terrain, including rocks, craters, slopes, turns, and loose granular soil.</p>
+
+
+
+<p>“Bringing the competitors to one central location is the best way to end a challenge like Break the Ice because it provides us with an opportunity to observe and test their designs in a common relevant environment,” said <a href="https://sbir.nasa.gov/content/mark-hilburger" rel="noopener">Mark Hilburger,</a> a senior research engineer in the Space Technology Exploration Directorate at <a href="https://www.nasa.gov/langley/">NASA’s Langley Research Center</a> in Hampton, Virginia, and principal technologist for Break the Ice. “These technologies must be thoroughly tested to survive on the Moon, so a test opportunity like this helps the teams prove if their prototypes are up to the task.”</p>
+
+
+
+<p>This final round of competition will offer up to $1.5 million in cash prizes, split between first place ($1 million) and second place ($500,000). NASA will also award opportunities for teams to test their concepts at one of the agency’s Thermal Vacuum Chambers, which can simulate the temperature and atmospheric pressure conditions at the Lunar South Pole.</p>
+
+
+
+<p>The Break the Ice Lunar Challenge is a <a href="http://nasa.gov/winit" rel="noopener">NASA Centennial Challenge</a> led by the agency’s <a href="https://www.nasa.gov/marshall/">Marshall Space Flight Center</a>  in Huntsville, Alabama, with support from <a href="https://www.nasa.gov/kennedy/">NASA’s Kennedy Space Center</a> in Florida. Centennial Challenges are part of the <a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing">Prizes, Challenges, and Crowdsourcing program</a> led by NASA’s <a href="https://www.nasa.gov/space-technology-mission-directorate/">Space Technology Mission Directorate</a> and managed at NASA Marshall. Ensemble Consultancy supports the management of competitors for this challenge.</p>
+
+
+<div id="" class="nasa-gb-align-center nasa-button-link padding-y-1 padding-x-0 hds-module wp-block-nasa-blocks-related-link">
+	<a href="https://www.nasa.gov/breaktheice" target="_self" class="button-primary button-primary-md link-external-true" aria-label="Learn more about Break the Ice">
+		<span class="line-height-alt-1">Learn more about Break the Ice</span>
+		<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+	</a>
+
+	</div>
+
+
+<p><strong>Jonathan Deal<br></strong>NASA’s Marshall Space Flight Center<br>256-544-0034<br>jonathan.e.deal@nasa.gov</p>
+
+
+<div id="" class="hds-social-media hds-social-media--horizontal grid-container grid-container-block nasa-gb-align-full width-full maxw-full margin-y-0 padding-y-5 padding-x-3 desktop:padding-x-0 font-weight-bold hds-module hds-module-full wp-block-nasa-blocks-social-media-links">		<div class="display-flex flex-align-center padding-y-1" id="social-facebook">
+			<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #4267B2;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="facebookIconTitle"><title id="facebookIconTitle">Facebook logo</title><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>			</div>
+			<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://facebook.com/NASAPrize" aria-label="Go to @NASAPrize on facebook" rel="noopener">@NASAPrize</a>			</div>
+		</div>
+				<div class="display-flex flex-align-center padding-y-1" id="social-twitter">
+			<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #1DA1F2;">
+				<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>			</div>
+			<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://x.com/NASAPrize" aria-label="Go to @NASAPrize on twitter">@NASAPrize</a>			</div>
+		</div>
+				<div class="display-flex flex-align-center padding-y-1" id="social-instagram">
+			<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #833AB4;">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="169.063px" height="169.063px" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve" aria-labelledby="instagramIconTitle"><title id="instagramIconTitle">Instagram logo</title><g> <path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"/> <path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"/> <path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"/></g></svg>			</div>
+			<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://instagram.com/NASAPrize" aria-label="Go to @NASAPrize on instagram" rel="noopener">@NASAPrize</a>			</div>
+		</div>
+		</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+	<div class="grid-row grid-container maxw-widescreen padding-0">
+		<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Share</h2>
+				</div>
+				<div class="padding-bottom-2">
+					<ul class="social-icons social-icons-round">
+						<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=Six%20Finalists%20Named%20in%20NASA%E2%80%99s%20%243.5%20Million%20Break%20the%20Ice%20Challenge&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fdirectorates%2Fstmd%2Fstmd-prizes-challenges-crowdsourcing-program%2Fcentennial-challenges%2Fsix-finalists-named-in-nasas-3-5-million-break-the-ice-challenge%2F" aria-label="Share on X.">
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nasa.gov%2Fdirectorates%2Fstmd%2Fstmd-prizes-challenges-crowdsourcing-program%2Fcentennial-challenges%2Fsix-finalists-named-in-nasas-3-5-million-break-the-ice-challenge%2F" aria-label="Share on Facebook.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fdirectorates%2Fstmd%2Fstmd-prizes-challenges-crowdsourcing-program%2Fcentennial-challenges%2Fsix-finalists-named-in-nasas-3-5-million-break-the-ice-challenge%2F" aria-label="Share on LinkedIn.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Details</h2>
+				</div>
+				<div class="grid-row margin-bottom-3">
+					<div class="grid-col-4">
+						<div class="subheading">Last Updated</div>
+					</div>
+					<div class="grid-col-8">Dec 06, 2023</div>
+				</div>
+						</div>
+		</div>
+	<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0"><div class="padding-top-3 border-top-1px border-color-carbon-black "><div class="margin-bottom-2"><h2 class="heading-14">Related Terms</h2></div><ul class="article-tags"><li class="article-tag"><a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/">Centennial Challenges</a></li><li class="article-tag"><a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/centennial-challenges-news/">Centennial Challenges News</a></li><li class="article-tag"><a href="https://www.nasa.gov/marshall-space-flight-center/">Marshall Space Flight Center</a></li></ul></div></div>
+	</div>
+</section>
+	</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-related-articles">		<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+			<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+				<div class="margin-bottom-4"><h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2></div>
+			</div>
+			<div class="grid-row grid-container maxw-widescreen padding-0">
+										<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img width="300" height="206" src="https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg 3513w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=300,206 300w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=768,526 768w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=1024,702 1024w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=1536,1053 1536w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=2048,1404 2048w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=400,274 400w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=600,411 600w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=900,617 900w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=1200,823 1200w, https://www.nasa.gov/wp-content/uploads/2023/11/ceb-5632.jpg?resize=2000,1371 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">15 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">The Marshall Star for November 29, 2023</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										7 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img width="300" height="199" src="https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg 5550w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=300,199 300w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=768,511 768w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=1024,681 1024w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=1536,1021 1536w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=2048,1362 2048w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=400,266 400w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=600,399 600w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=900,598 900w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=1200,798 1200w, https://www.nasa.gov/wp-content/uploads/2023/11/ssc-20231129-s03226h.jpg?resize=2000,1330 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">2 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA Tests In-Flight Capability of Artemis Moon Rocket Engine</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										7 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-22-2023/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img width="300" height="200" src="https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg 7017w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2023/11/maf-20231116-cs2-astronautvisit08.jpg?resize=2000,1333 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">19 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">The Marshall Star for November 22, 2023</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										2 weeks ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+							</div>
+		</section>
+		</div>
+
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full wp-block-nasa-blocks-topic-cards">		<div class="grid-container grid-container-block-lg padding-x-0">
+			<div class="grid-row flex-align-center margin-bottom-3">
+				<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+					<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+					<h2 class="heading-36 line-height-sm">Discover Related Topics</h2>
+				</div>
+			</div>
+				<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Missions</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Humans in Space</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Climate Change</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Solar System</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg" ></figure>									</div>
+			</a>
+				</div>
+			</div>
+		</div>]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>New Course from NASA Helps Build Open, Inclusive Science Community</title>
+            <link>
+                https://www.nasa.gov/news-release/new-course-from-nasa-helps-build-open-inclusive-science-community/</link>
+
+            <dc:creator><![CDATA[Claire A. O'Shea]]></dc:creator>
+            <pubDate>Wed, 06 Dec 2023 15:13:52 +0000</pubDate>
+            <guid isPermaLink="false">https://www.nasa.gov/?post_type=press-release&#038;p=575626</guid>
+
+            <description><![CDATA[NASA released its free Open Science 101 curriculum Wednesday to empower researchers, early career scientists, and underrepresented communities with the knowledge and tools necessary to embrace open science practices. The curriculum&#8217;s initial goal is to train 20,000 scientists and researchers over the next five years, enabling them to embrace open science practices and maximize the [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full wp-block-nasa-blocks-article-intro"><div class="width-full maxw-full article-header"><div class="margin-bottom-2 width-full maxw-full"><p class="label carbon-60 margin-0 margin-bottom-3 padding-0">3 min read</p><h1 class="display-48 margin-bottom-2">Preparations for Next Moonwalk Simulations Underway (and Underwater)</h1></div></div></div>
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="NAS Open Science TOPS 009" width="640" height="360" src="https://www.youtube.com/embed/RJAcQ3TxlAc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p>NASA released its free <a href="https://go.nasa.gov/40pPQMx" rel="noopener">Open Science 101</a> curriculum Wednesday to empower researchers, early career scientists, and underrepresented communities with the knowledge and tools necessary to embrace open science practices.</p>
+
+
+
+<p>The curriculum&#8217;s initial goal is to train 20,000 scientists and researchers over the next five years, enabling them to embrace open science practices and maximize the impact of their work.</p>
+
+
+
+<p>“NASA is committed to ensuring people around the world have equal and open access to science data whenever they need it,” said NASA Administrator Bill Nelson. “This innovative curriculum will support the White House’s Year of Open Science to help people make informed, research-based decisions that will benefit humanity and improve life here on Earth.”</p>
+
+
+
+<p>Developed by NASA&#8217;s <a href="https://nasa.github.io/Transform-to-Open-Science/" rel="noopener">Transform to Open Science</a> initiative in collaboration with subject matter experts, the curriculum is designed to meet researchers at every stage of their open science journey – catering to those new to open science, established researchers, and aspiring students looking to embark on scientific careers. It also helps prepare researchers to incorporate required open science data management plans when applying for NASA grant funding.</p>
+
+
+
+<p>“We believe education is a shared endeavor that can be achieved through community-driven learning,” said Nicola Fox, associate administrator, Science Mission Directorate at NASA Headquarters in Washington. “Our new curriculum is a testament to the incredible potential that emerges when open science experts from academia, industry, and government unite. With this initial rollout, we&#8217;re not just launching a course; we&#8217;re igniting a movement where learners actively shape the course&#8217;s trajectory.”</p>
+
+
+
+<p>In its initial form, the Open Science 101 curriculum presents an introduction to the world of open science while also setting the stage for its continued evolution. It introduces learners to definitions, tools, and resources and provides valuable best practices throughout the scientific workflow. All five modules of the course are accessible through an open online platform, where participants can learn at their own pace. In addition to the platform, the modules will also be covered in virtual and in-person instructor-led training sessions.</p>
+
+
+
+<p>To further support engagement and knowledge exchange, NASA has forged strategic partnerships with scientific associations, allowing open science to be taught during large annual meetings, special science team summer schools, and other events. These initiatives aim to create a dynamic learning environment where participants can interact with experts, ask questions, and explore the frontiers of open science. The diversity in learning options ensures that participants can choose the mode that best suits their learning style and schedule, optimizing the learning experience.</p>
+
+
+
+<p>The Open Science 101 curriculum is accessible to all interested individuals, aligning with NASA&#8217;s commitment to inclusivity and promoting equitable access to scientific resources.&nbsp;</p>
+
+
+
+<p>To learn more, register for Open Science 101, and begin taking the curriculum, visit:</p>
+
+
+
+<p class="has-text-align-center"><a href="https://nasa.github.io/Transform-to-Open-Science/" rel="noopener"><strong>https://nasa.github.io/Transform-to-Open-Science/</strong></a></p>
+
+
+
+<p class="has-text-align-center">-end-</p>
+
+
+
+<p><strong>News Media Contacts:</strong></p>
+
+
+
+<p>Karen Fox / Alise Fisher<br>Headquarters, Washington<br>202-358-1600 / 202-358-2546<br><a href="mailto:karen.c.fox@nasa.gov">karen.c.fox@nasa.gov</a> / <a href="mailto:alise.m.fisher@nasa.gov">alise.m.fisher@nasa.gov</a></p>
+
+
+
+<p>Jonathan Deal<br>Marshall Space Flight Center, Huntsville, Ala.<br>256-544-0034<br><a href="mailto:jonathan.e.deal@nasa.gov">jonathan.e.deal@nasa.gov</a></p>
+
+
+
+<p></p>
+
+
+<div id="" class="nasa-gb-align-center nasa-button-link padding-y-1 padding-x-0 hds-module wp-block-nasa-blocks-related-link">
+	<a href="https://www.nasa.gov/press-release/" target="_self" class="button-primary button-primary-md link-external-true" aria-label="Read more about Read More">
+		<span class="line-height-alt-1">Read More</span>
+		<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+	</a>
+
+	</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+	<div class="grid-row grid-container maxw-widescreen padding-0">
+		<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Share</h2>
+				</div>
+				<div class="padding-bottom-2">
+					<ul class="social-icons social-icons-round">
+						<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=New%20Course%20from%20NASA%20Helps%20Build%20Open%2C%20Inclusive%20Science%20Community&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnew-course-from-nasa-helps-build-open-inclusive-science-community%2F" aria-label="Share on X.">
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnew-course-from-nasa-helps-build-open-inclusive-science-community%2F" aria-label="Share on Facebook.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnew-course-from-nasa-helps-build-open-inclusive-science-community%2F" aria-label="Share on LinkedIn.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Details</h2>
+				</div>
+				<div class="grid-row margin-bottom-3">
+					<div class="grid-col-4">
+						<div class="subheading">Last Updated</div>
+					</div>
+					<div class="grid-col-8">Dec 06, 2023</div>
+				</div>
+			<div class="grid-row margin-bottom-3"><div class="grid-col-4"><div class="subheading">Editor</div></div><div class="grid-col-8">Claire A. O&#039;Shea</div></div><div class="grid-row"><div class="grid-col-4"><div class="subheading">Location</div></div><div class="grid-col-8"><a class="hds-location-tag-name" href="https://www.nasa.gov/nasa-headquarters/"><span class="hds-meta-heading">NASA Headquarters</span></a></div></div>			</div>
+		</div>
+	<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0"><div class="padding-top-3 border-top-1px border-color-carbon-black "></div></div>
+	</div>
+</section>
+	</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-related-articles">		<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+			<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+				<div class="margin-bottom-4"><h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2></div>
+			</div>
+			<div class="grid-row grid-container maxw-widescreen padding-0">
+										<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/six-finalists-named-in-nasas-3-5-million-break-the-ice-challenge/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img loading="lazy" width="300" height="200" src="https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png 1600w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/12/breaktheicechallenge.png?resize=1200,800 1200w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">4 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">Six Finalists Named in NASA’s $3.5 Million Break the Ice Challenge</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										55 mins ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/general/575338/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img loading="lazy" width="300" height="200" src="https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg 4928w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=768,511 768w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1024,682 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1536,1022 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=2048,1363 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=400,266 400w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=600,399 600w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=900,599 900w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1200,799 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=2000,1331 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">1 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title"></h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										20 hours ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-delivers-first-images-and-other-data/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img loading="lazy" width="300" height="124" src="https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png 2967w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=300,124 300w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=768,317 768w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=1024,423 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=1536,634 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=2048,846 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=400,165 400w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=600,248 600w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=900,372 900w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=1200,495 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png?resize=2000,826 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">5 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA’s Psyche Delivers First Images and Other Data</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										21 hours ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+							</div>
+		</section>
+		</div>
+
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full wp-block-nasa-blocks-topic-cards">		<div class="grid-container grid-container-block-lg padding-x-0">
+			<div class="grid-row flex-align-center margin-bottom-3">
+				<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+					<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+					<h2 class="heading-36 line-height-sm">Discover Related Topics</h2>
+				</div>
+			</div>
+				<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Missions</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Humans in Space</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Climate Change</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg" ></figure>									</div>
+			</a>
+					<a href="#" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Solar System</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg" ></figure>									</div>
+			</a>
+				</div>
+			</div>
+		</div>]]></content:encoded>
+
+
+            <media:content url="https://www.youtube.com/embed/RJAcQ3TxlAc" medium="video"
+                width="1280" height="720">
+                <media:player url="https://www.youtube.com/embed/RJAcQ3TxlAc" />
+                <media:title type="plain">NAS Open Science TOPS 009</media:title>
+                <media:description type="html"><![CDATA[NASA released its free Open Science 101 curriculum Wednesday to empower researchers, early career scientists, and underrepresented communities with the knowledge and tools necessary to embrace open science practices.]]></media:description>
+                <media:thumbnail
+                    url="https://www.nasa.gov/wp-content/uploads/2023/12/nas-open-science-tops-006.00-01-17-29.still004.png" />
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+            </media:content>
+        </item>
+        <item>
+            <title>General</title>
+            <link>https://www.nasa.gov/general/575338/</link>
+
+            <dc:creator><![CDATA[Suzanne Cisneros]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 21:35:47 +0000</pubDate>
+            <category><![CDATA[General]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?p=575338</guid>
+
+            <description><![CDATA[Faces of NASA features Ames Research Center Pilot David Zahn In November 2023, “Faces of NASA” featured an aeronautics pilot from NASA Ames Research Center.  Learn more about David Zahn and his story at https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/.]]></description>
+            <content:encoded><![CDATA[
+<p><strong>Faces of NASA</strong> <strong>features Ames Research Center Pilot David Zahn</strong></p>
+
+
+
+<p>In November 2023, “Faces of NASA” featured an aeronautics pilot from NASA Ames Research Center.  Learn more about David Zahn and his story at <a href="https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/.">https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/.</a></p>
+
+
+
+<p></p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><img loading="lazy" width="2048" height="1363" src="https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" decoding="async" style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg 4928w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=768,511 768w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1024,682 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1536,1022 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=2048,1363 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=400,266 400w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=600,399 600w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=900,599 900w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=1200,799 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/david-zahn.jpg?resize=2000,1331 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">David Zahn pilots the ownship aircraft in the VMS’s R-Cab during the AVA-1h simulation in the VMS at NASA Ames Research Center.</div><div class="hds-credits">NASA / Dominic Hart</div></figcaption></div></div></div>]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>NASA’s Psyche Delivers First Images and Other Data</title>
+            <link>
+                https://www.nasa.gov/missions/psyche-mission/nasas-psyche-delivers-first-images-and-other-data/</link>
+
+            <dc:creator><![CDATA[Naomi Hartono]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 20:50:35 +0000</pubDate>
+            <category><![CDATA[Psyche Mission]]></category>
+            <category><![CDATA[Asteroids]]></category>
+            <category><![CDATA[Jet Propulsion Laboratory]]></category>
+            <category><![CDATA[Psyche Asteroid]]></category>
+            <category><![CDATA[The Solar System]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?p=575061</guid>
+
+            <description><![CDATA[The mission team has celebrated several successes since its launch from Kennedy Space Center on Oct. 13. The latest is the operation of the spacecraft’s cameras. NASA’s Psyche spacecraft is on a roll. In the eight weeks since it left Earth on Oct. 13, the orbiter has performed one successful operation after another, powering on [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="hds-article-hero-header nasa-gb-align-full bg-carbon-90 width-full maxw-full color-mode-dark hds-module hds-module-full wp-block-nasa-blocks-article-hero-header">		<div class="hds-cover-wrapper width-full maxw-full minh-tablet grid-container minh-tablet flex-column padding-0">
+			<div class="hds-foreground-wrapper display-flex flex-direction-column">
+				<div class="grid-container grid-container-block margin-top-auto width-full maxw-desktop-lg padding-y-9 padding-x-3 desktop:padding-x-0 z-400">
+					<div class="z-400 grid-col-12 tablet:grid-col-12 desktop:grid-col-7 z-400">
+						<div class="margin-0">
+							<div class="label color-spacesuit-white margin-bottom-2">5 Min Read</div>
+							<h1 class="heading-41 line-height-md color-spacesuit-white-important">
+								NASA’s Psyche Delivers First Images and Other Data							</h1>
+						</div>
+					</div>
+					<div class="grid-col-12 tablet:grid-col-12 desktop:grid-col-5"></div>
+					<div class="skrim-overlay skrim-left mobile-skrim-top z-200"></div>
+					<figure class="hds-media-background  "><img loading="lazy" width="1536" height="634" src="https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?w=1536" class="attachment-1536x1536 size-1536x1536" alt="This mosaic was made from “first light” images acquired Dec. 4 by both of the cameras on NASA’s Psyche spacecraft. The star field lies in the constellation Pisces." decoding="async" style="transform: scale(1); transform-origin: 73% 39%; object-position: 73% 39%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png 2967w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=300,124 300w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=768,317 768w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=1024,423 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=1536,634 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=2048,846 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=400,165 400w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=600,248 600w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=900,372 900w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=1200,495 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/pia25960-psyche-imager-mosaic-231204.png?resize=2000,826 2000w" sizes="(max-width: 1536px) 100vw, 1536px" /></figure>				</div>
+			</div>
+		</div>
+		<div class="padding-y-3 padding-x-3">
+			<div class="grid-container grid-container-block padding-x-0">
+								<figcaption class="hds-caption maxw-mobile">
+					<div class="hds-caption-text p-sm margin-0 color-carbon-30">
+						<div><figcaption>This mosaic was made from “first light” images acquired Dec. 4 by both of the cameras on NASA’s Psyche spacecraft. The star field lies in the constellation Pisces.</figcaption></div>
+					</div>
+										<div class="hds-credits color-spacesuit-white-important">
+						<span>Credits: </span>
+						<span>NASA/JPL-Caltech/ASU</span>
+					</div>
+									</figcaption>
+							</div>
+		</div>
+	</div>
+
+
+<p><em>The mission team has celebrated several successes since its launch from Kennedy Space Center on Oct. 13. The latest is the operation of the spacecraft’s cameras.</em></p>
+
+
+
+<p>NASA’s Psyche spacecraft is on a roll. In the eight weeks <a href="https://www.jpl.nasa.gov/news/nasas-psyche-spacecraft-optical-comms-demo-en-route-to-asteroid" rel="noopener">since it left Earth</a> on Oct. 13, the orbiter has performed one successful operation after another, powering on scientific instruments, streaming data toward home, and setting a deep-space record with its electric thrusters. The latest achievement: On Monday, Dec. 4, the mission turned on <a href="https://www.nasa.gov/psyche">Psyche</a>’s twin cameras and retrieved the first images – a milestone called “first light.”</p>
+
+
+<div id="" class="nasa-gb-align-center nasa-button-link padding-y-1 padding-x-0 hds-module wp-block-nasa-blocks-related-link">
+	<a href="https://www.jpl.nasa.gov/images/pia25960-first-images-from-nasas-psyche" target="_self" class="button-primary button-primary-md link-external-true" aria-label="View the full images here" rel="noopener">
+		<span class="line-height-alt-1">View the full images here</span>
+		<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+	</a>
+
+	</div>
+
+
+<p>Already 16 million miles (26 million kilometers) <a href="https://eyes.nasa.gov/apps/solar-system/#/sc_psyche/distance?to=earth" rel="noopener">from Earth</a>, the spacecraft will arrive at its destination – the asteroid Psyche in the main asteroid belt between Mars and Jupiter – in 2029. The team wanted to test all of the science instruments early in the long journey to make sure they are working as intended, and to ensure there would be plenty of time to calibrate and adjust them as needed.</p>
+
+
+
+<p>The imager instrument, which consists of a pair of identical cameras, captured a total of 68 images, all within a star field in the constellation Pisces. The <a href="https://www.youtube.com/watch?v=gCmIZ_sZbEM&amp;list=PLTiv_XWHnOZroZ-vuDa-e-aQbfMG4-KNo&amp;index=6" rel="noopener">imager team</a> is using the data to verify proper commanding, telemetry analysis, and calibration of the images.</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><img loading="lazy" width="2048" height="1690" src="https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg 3264w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=300,248 300w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=768,634 768w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=1024,845 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=1536,1267 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=2048,1690 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=400,330 400w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=600,495 600w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=900,743 900w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=1200,990 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/psyche-first-light-stacked.jpg?resize=2000,1650 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Psyche’s “first light” images make up this mosaic showing a starfield in the constellation Pisces. A version of the mosaic annotated with the names of the stars shown is at bottom.</div><div class="hds-credits">NASA/JPL-Caltech/ASU</div></figcaption></div></div></div>
+
+
+<p>“These initial images are only a curtain-opener,” said Arizona State University’s Jim Bell, the Psyche imager instrument lead. “For the team that designed and operates this sophisticated instrument, first light is a thrill. We start checking out the cameras with star images like these, then in 2026 we’ll take test images of Mars during the spacecraft’s flyby. And finally, in 2029 we’ll get our most exciting images yet – of our target asteroid Psyche. We look forward to sharing all of these visuals with the public.”</p>
+
+
+
+<p>The imager takes pictures through multiple color filters, all of which were tested in these initial observations. With the filters, the team will use photographs in wavelengths of light both visible and invisible to the human eye to help determine the composition of the metal-rich asteroid Psyche. The imager team will also use the data to create 3D maps of the asteroid to better understand its geology, which will give clues about Psyche’s history.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Solar Surprise</strong></h3>
+
+
+
+<p>Earlier in the mission, in late October, the team powered on the magnetometer, which will provide crucial data to help determine how the asteroid formed. Evidence that the asteroid once had a magnetic field would be a strong indication that the body is a partial core of a planetesimal, a building block of an early planet. The information could help us better understand how our own planet formed. </p>
+
+
+<div id="" class="nasa-gb-align-center nasa-button-link padding-y-1 padding-x-0 hds-module wp-block-nasa-blocks-related-link">
+	<a href="https://eyes.nasa.gov/apps/solar-system/#/sc_psyche" target="_self" class="button-primary button-primary-md link-external-true" aria-label="See the Psyche spacecraft in 3D on NASA&#039;s Eyes on the Solar System" rel="noopener">
+		<span class="line-height-alt-1">See the Psyche spacecraft in 3D on NASA&#039;s Eyes on the Solar System</span>
+		<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+	</a>
+
+	</div>
+
+
+<p>Shortly after being powered on, the magnetometer gave scientists an unexpected gift: It detected a solar eruption, a common occurrence called a coronal mass ejection, where the Sun expels large quantities of magnetized plasma. Since then, the team has seen several of these events and will continue to monitor space weather as the spacecraft travels to the asteroid.</p>
+
+
+
+<p>The good news is twofold. Data collected so far confirms that the magnetometer can precisely detect very small magnetic fields. It also confirms that the spacecraft is <a href="https://science.nasa.gov/resource/magnetic-field-of-the-psyche-spacecraft/" rel="noopener">magnetically “quiet.”</a> The electrical currents powering a probe of this size and complexity have the potential to generate magnetic fields that could interfere with science detections. Because Earth has its own powerful magnetic field, scientists obtained a much better measurement of the spacecraft magnetic field once it was in space.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>In the Zone</strong></h3>
+
+
+
+<p>On Nov. 8, amid all the work with the science instruments, the team fired up two of the four electric propulsion thrusters, setting a record: the first-ever use of <a href="https://psyche.asu.edu/2018/01/19/electric-thrusters-psyche-spacecraft-work/" rel="noopener">Hall-effect thrusters</a> in deep space. Until now, they’d been used only on spacecraft going as far as lunar orbit. By expelling charged atoms, or ions, of xenon gas, the ultra-efficient thrusters will <a href="https://www.jpl.nasa.gov/news/solar-electric-propulsion-makes-nasas-psyche-spacecraft-go" rel="noopener">propel the spacecraft</a> to the asteroid (a 2.2-billion-mile, or 3.6-billion-kilometer journey) and help it maneuver in orbit.</p>
+
+
+
+<p>Less than a week later, on Nov. 14, the technology demonstration built into the spacecraft, an experiment called Deep Space Optical Communications (<a href="https://www.nasa.gov/mission_pages/tdm/dsoc/index.html">DSOC</a>), set its own record. DSOC <a href="https://www.jpl.nasa.gov/news/nasas-deep-space-optical-comm-demo-sends-receives-first-data" rel="noopener">achieved first light</a> by sending and receiving optical data from far beyond the Moon. The instrument beamed a near-infrared laser encoded with test data from nearly 10 million miles (16 million kilometers) away – the farthest-ever demonstration of optical communications.</p>
+
+
+
+<p>The Psyche team has also successfully powered on the gamma-ray detecting component of its third science instrument, the gamma-ray and neutron spectrometer. Next, the instrument’s neutron-detecting sensors will be turned on the week of Dec. 11. Together those capabilities will help the team determine the chemical elements that make up the asteroid’s surface material.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>More About the Mission</strong></h3>
+
+
+
+<p>Arizona State University (ASU) leads the Psyche mission. A division of Caltech in Pasadena, NASA’s Jet Propulsion Laboratory is responsible for the mission’s overall management, system engineering, integration and test, and mission operations. Maxar Technologies in Palo Alto, California, provided the high-power solar electric propulsion spacecraft chassis. ASU leads the operations of the imager instrument, working in collaboration with Malin Space Science Systems in San Diego on the design, fabrication, and testing of the cameras.</p>
+
+
+
+<p><a></a>JPL manages DSOC for the Technology Demonstration Missions program within NASA’s Space Technology Mission Directorate and the Space Communications and Navigation program within the Space Operations Mission Directorate.</p>
+
+
+
+<p>Psyche is the 14th mission selected as part of <a href="https://www.nasa.gov/planetarymissions/discovery.html">NASA’s Discovery Program</a>, managed by the agency’s Marshall Space Flight Center in Huntsville, Alabama. NASA’s Launch Services Program, based at Kennedy, managed the launch service.</p>
+
+
+
+<p>For more information about NASA’s Psyche mission go to:</p>
+
+
+
+<p><a href="http://www.nasa.gov/psyche"><strong>http://www.nasa.gov/psyche</strong></a></p>
+
+
+<div id="" class="nasa-gb-align-center nasa-button-link padding-y-1 padding-x-0 hds-module wp-block-nasa-blocks-related-link">
+	<a href="https://go.nasa.gov/PsycheLaunchPressKit" target="_self" class="button-primary button-primary-md link-external-true" aria-label="Psyche Press Kit" rel="noopener">
+		<span class="line-height-alt-1">Psyche Press Kit</span>
+		<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+	</a>
+
+	</div>
+
+
+<h3 class="wp-block-heading"><strong>News Media Contacts</strong></h3>
+
+
+
+<p>Gretchen McCartney<br>Jet Propulsion Laboratory, Pasadena, Calif.<br>818-287-4115<br><a href="mailto:gretchen.p.mccartney@jpl.nasa.gov&nbsp;">gretchen.p.mccartney@jpl.nasa.gov&nbsp;</a></p>
+
+
+
+<p>Karen Fox / Alana Johnson<br>NASA Headquarters, Washington<br>301-286-6284 / 202-358-1501<br><a href="mailto:karen.c.fox@nasa.gov">karen.c.fox@nasa.gov</a> / <a href="mailto:alana.r.johnson@nasa.gov">alana.r.johnson@nasa.gov</a></p>
+
+
+
+<p>2023-077</p>
+
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+	<div class="grid-row grid-container maxw-widescreen padding-0">
+		<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Share</h2>
+				</div>
+				<div class="padding-bottom-2">
+					<ul class="social-icons social-icons-round">
+						<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=NASA%E2%80%99s%20Psyche%20Delivers%20First%20Images%20and%20Other%20Data&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fmissions%2Fpsyche-mission%2Fnasas-psyche-delivers-first-images-and-other-data%2F" aria-label="Share on X.">
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nasa.gov%2Fmissions%2Fpsyche-mission%2Fnasas-psyche-delivers-first-images-and-other-data%2F" aria-label="Share on Facebook.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fmissions%2Fpsyche-mission%2Fnasas-psyche-delivers-first-images-and-other-data%2F" aria-label="Share on LinkedIn.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Details</h2>
+				</div>
+				<div class="grid-row margin-bottom-3">
+					<div class="grid-col-4">
+						<div class="subheading">Last Updated</div>
+					</div>
+					<div class="grid-col-8">Dec 05, 2023</div>
+				</div>
+						</div>
+		</div>
+	<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0"><div class="padding-top-3 border-top-1px border-color-carbon-black "><div class="margin-bottom-2"><h2 class="heading-14">Related Terms</h2></div><ul class="article-tags"><li class="article-tag"><a href="https://science.nasa.gov/mission/psyche" rel="noopener">Psyche Mission</a></li><li class="article-tag"><a href="https://science.nasa.gov/solar-system/asteroids" rel="noopener">Asteroids</a></li><li class="article-tag"><a href="https://www.nasa.gov/jpl/">Jet Propulsion Laboratory</a></li><li class="article-tag"><a href="https://science.nasa.gov/solar-system/asteroids/16-psyche/" rel="noopener">Psyche Asteroid</a></li><li class="article-tag"><a href="https://science.nasa.gov/solar-system/" rel="noopener">The Solar System</a></li></ul></div></div>
+	</div>
+</section>
+	</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-related-articles">		<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+			<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+				<div class="margin-bottom-4"><h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2></div>
+			</div>
+			<div class="grid-row grid-container maxw-widescreen padding-0">
+										<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/a-flame-in-the-sky-the-orion-nebula/" class="color-carbon-black" rel="noopener">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/09/Orionnebula.jpg" ></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">4 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">December’s Night Sky Notes: A Flame in the Sky – the Orion Nebula</h3></div>
+																	<p class="p-md color-carbon-60">It’s that time of year again: winter! Here in the Northern Hemisphere, the cold, crisp&hellip;</p>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										5 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/missions/odyssey/nasa-orbiter-snaps-stunning-views-of-mars-horizon/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img loading="lazy" width="300" height="77" src="https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png 5000w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=300,77 300w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=768,197 768w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=1024,262 1024w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=1536,393 1536w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=2048,524 2048w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=400,102 400w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=600,154 600w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=900,230 900w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=1200,307 1200w, https://www.nasa.gov/wp-content/uploads/2023/11/1-pia26203-odysseys-themis-views-the-horizon-of-mars.png?resize=2000,512 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">4 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA Orbiter Snaps Stunning Views of Mars Horizon</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										1 week ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/missions/dragonfly/nasas-dragonfly-to-proceed-with-final-mission-design-work/" class="color-carbon-black" rel="noopener">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/11/dragonfly-departurebegin.jpg" ></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">3 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA’s Dragonfly to Proceed with Final Mission Design Work</h3></div>
+																	<p class="p-md color-carbon-60">NASA’s Dragonfly mission has been authorized to proceed with work on final mission design and&hellip;</p>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										1 week ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+							</div>
+		</section>
+		</div>]]></content:encoded>
+
+
+            <media:content url="https://www.youtube.com/embed/gCmIZ_sZbEM" medium="video"
+                width="1280" height="720">
+                <media:player url="https://www.youtube.com/embed/gCmIZ_sZbEM" />
+                <media:title type="plain">How Will #MissionToPsyche See Its Target Asteroid?</media:title>
+                <media:description type="html"><![CDATA[NASA’s Psyche spacecraft will use highly sensitive cameras to allow scientists to see a metal-rich asteroid that’s never been imaged up close before. Planeta...]]></media:description>
+                <media:thumbnail
+                    url="https://www.nasa.gov/wp-content/uploads/2023/12/psyche-imager-mosaic-annotated-231204.png" />
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+            </media:content>
+        </item>
+        <item>
+            <title>NASA Engineers Push Limits of Physics to Focus Light</title>
+            <link>https://www.nasa.gov/technology/goddard-engineers-focus-uv-light/</link>
+
+            <dc:creator><![CDATA[Karl B. Hille]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 19:26:02 +0000</pubDate>
+            <category><![CDATA[Technology]]></category>
+            <category><![CDATA[Goddard Space Flight Center]]></category>
+            <category><![CDATA[People of Goddard]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?p=575112</guid>
+
+            <description><![CDATA[Photon sieves focus extreme ultraviolet light and can enable Sun science.]]></description>
+            <content:encoded><![CDATA[
+<p>A pair of precision-orbiting small satellites will attempt to capture the first views ever of small-scale features near the surface of the Sun that scientists believe drive the heating and acceleration of solar wind.</p>
+
+
+
+<p>Heliophysicist Dr. Doug Rabin at <a href="https://www.nasa.gov/goddard">NASA’s Goddard Space Flight Center</a> in Greenbelt, Maryland, said photon sieves, a technology that can focus extreme ultraviolet light, should be able to resolve features 10 to 50 times smaller than what can be seen today with the <a href="https://sdo.gsfc.nasa.gov/" rel="noopener">Solar Dynamics Observatory</a>’s EUV imager.</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><img loading="lazy" width="2048" height="1568" src="https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="an 8-inch wafer of silicon, with hair-thin panels etched with microscopic holes." decoding="async" style="transform: scale(1); transform-origin: 50% 34%; object-position: 50% 34%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg 6603w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=300,230 300w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=768,588 768w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=1024,784 1024w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=1536,1176 1536w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=2048,1568 2048w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=400,306 400w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=600,459 600w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=900,689 900w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=1200,919 1200w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00003-copy.jpg?resize=2000,1531 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Photon sieves like  this are cut from a single wafer of silicon or niobium to focus extreme ultraviolet light &#8211; a difficult wavelength to capture.</div><div class="hds-credits">NASA / Christopher Gunn</div></figcaption></div></div></div>
+
+
+<p>To be most effective, however, they must be wide, super-thin, and etched with precise holes to refract light. Working in Goddard’s Detector Development Laboratory, Goddard engineer Kevin Denis developed new ways to create wider and thinner membranes from wafers of silicon and niobium. Each advancement so far has required additional steps to protect the resulting sieves, such as leaving a honeycomb of thicker material to support the membrane and prevent tearing.</p>
+
+
+
+<p>“It’s a sheer physical challenge to construct sieves with such precision,” said Goddard Heliophysicist Dr. Doug Rabin. “Their smallest features are a 2-microns across with a 2-micron gap between perforations, that’s about the size of most bacteria.”</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><img loading="lazy" width="1638" height="2048" src="https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?w=1638" class="attachment-2048x2048 size-2048x2048" alt="a honeycomb structure holds a photon sieve cut to focus extreme uv light" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg 2190w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=240,300 240w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=768,961 768w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=819,1024 819w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=1228,1536 1228w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=1638,2048 1638w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=320,400 320w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=480,600 480w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=720,900 720w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=959,1200 959w, https://www.nasa.gov/wp-content/uploads/2023/12/img-6987.jpg?resize=1599,2000 1599w" sizes="(max-width: 1638px) 100vw, 1638px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">New photon sieves consist of a honeycomb structure supporting a super-thin membrane cut to focus extreme-ultraviolet light. In this sieve, the largest gaps and holes can be seen in the center hexagon, but the rest quickly become too small for the human eye to detect.</div><div class="hds-credits">NASA / Christopher Gunn</div></figcaption></div></div></div>
+
+
+<p>Etched with from the center with ever smaller rings of holes, sieves are built to refract light similarly to Fresnel lenses used in lighthouses. Extreme ultraviolet light passing through this sieve is bent gradually inward to a distant camera. Thin membranes matter for solar science because these sieves transmit more light than thicker materials, Denis said.</p>
+
+
+
+<p>He and fellow engineer Kelly Johnson successfully produced a 3-inch (8-cm) diameter silicon sieve, a mere 100 nanometers thick. Now they are experimenting with niobium membranes which can further improve light-gathering efficiency because they transmit up to seven times more light than silicon. They have successfully etched a 5-inch (13 cm) diameter niobium sieve just 200 nanometers thick. &nbsp;</p>
+
+
+
+<p>Denis takes inspiration from working closely with scientists to overcome barriers to advancing their field, he said. “They have done a great job using the sieves in near-term science applications while we push the technology for larger and more capable missions.”</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><img loading="lazy" width="1535" height="2048" src="https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?w=1535" class="attachment-2048x2048 size-2048x2048" alt="Portrait of Kevin Denis, Goddard&#039;s FY23 IRAD Innovator of the Year" decoding="async" style="transform: scale(1.2); transform-origin: 31% 9%; object-position: 31% 9%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg 5744w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=225,300 225w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=768,1025 768w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=767,1024 767w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=1151,1536 1151w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=1535,2048 1535w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=300,400 300w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=450,600 450w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=675,900 675w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=899,1200 899w, https://www.nasa.gov/wp-content/uploads/2023/11/dennis231114-00001-copy.jpg?resize=1499,2000 1499w" sizes="(max-width: 1535px) 100vw, 1535px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Kevin Denis</div><div class="hds-credits">NASA / Christopher Gunn</div></figcaption></div></div></div>
+
+
+<p>Photon sieves cut from materials as thick as 25 microns are already part of the technology demonstration VISORS – Virtual Super Optics Reconfigurable Swarm – CubeSat mission, expected to launch in 2024. VISORS consists of one compact satellite about the size of a briefcase outfitted with sieves to refract light onto a receiver on a second satellite 130 feet (40 m) away. Maintaining these spacecraft’s <a href="https://issuu.com/nasagsfc/docs/winter_2021_final_web_version/s/11692722" rel="noopener">high-precision orbit</a> and developing a sunshade are the focus of other Goddard IRAD project.</p>
+
+
+
+<p>VISOR’s success could pave the way for a larger future mission, with spacecraft separation measured in kilometers, employing the greater resolution of Denis’s thinner sieves once they are ready for spaceflight.</p>
+
+
+
+<p>Another larger photon sieve will be used to calibrate the <a href="https://science.nasa.gov/mission/muse/" rel="noopener">MUSE</a> – Multi-slit Solar Explorer – spectrometer expected to launch in 2027.&nbsp;</p>
+
+
+
+<p>Denis’s work was highlighted in <a href="https://pubs.aip.org/physicstoday/article/76/8/40/2903575/Advances-in-solar-telescopesEven-as-our" rel="noopener">Physics Today,</a> a publication of the American Institute for Physics, and has resulted with two patents already with a third submitted. Goddard Chief Technologist Peter Hughes awarded Denis the <a href="https://www.nasa.gov/technology/denis-innovation-award/">FY23 IRAD Innovator of the Year Award</a> during the program&#8217;s annual poster session held Nov. 15.</p>
+
+
+
+<p>While he continues to push the limits of engineering, Denis said he is looking forward to the MUSE and VISORS launches. “It’s a great motivation to see how they are going to be used for new science even as we continue to improve.”</p>
+
+
+
+<p><strong><em>By Karl B. Hille</em></strong></p>
+
+
+
+<p><strong><em>NASA’s Goddard Space Flight Center in Greenbelt, Md.</em></strong></p>
+
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+	<div class="grid-row grid-container maxw-widescreen padding-0">
+		<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Share</h2>
+				</div>
+				<div class="padding-bottom-2">
+					<ul class="social-icons social-icons-round">
+						<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=NASA%20Engineers%20Push%20Limits%20of%20Physics%20to%20Focus%20Light&#038;url=https%3A%2F%2Fwww.nasa.gov%2Ftechnology%2Fgoddard-engineers-focus-uv-light%2F" aria-label="Share on X.">
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nasa.gov%2Ftechnology%2Fgoddard-engineers-focus-uv-light%2F" aria-label="Share on Facebook.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.nasa.gov%2Ftechnology%2Fgoddard-engineers-focus-uv-light%2F" aria-label="Share on LinkedIn.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Details</h2>
+				</div>
+				<div class="grid-row margin-bottom-3">
+					<div class="grid-col-4">
+						<div class="subheading">Last Updated</div>
+					</div>
+					<div class="grid-col-8">Dec 05, 2023</div>
+				</div>
+						</div>
+		</div>
+	<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0"><div class="padding-top-3 border-top-1px border-color-carbon-black "><div class="margin-bottom-2"><h2 class="heading-14">Related Terms</h2></div><ul class="article-tags"><li class="article-tag"><a href="https://www.nasa.gov/technology/">Technology</a></li><li class="article-tag"><a href="https://www.nasa.gov/goddard/">Goddard Space Flight Center</a></li><li class="article-tag"><a href="https://www.nasa.gov/people-of-nasa/goddard-people/">People of Goddard</a></li></ul></div></div>
+	</div>
+</section>
+	</div>
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-related-articles">		<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+			<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+				<div class="margin-bottom-4"><h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2></div>
+			</div>
+			<div class="grid-row grid-container maxw-widescreen padding-0">
+										<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img loading="lazy" width="300" height="200" src="https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?w=300" class="attachment-medium size-medium" alt="" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/final-katie2.jpg?resize=2000,1333 2000w" sizes="(max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">3 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA Audio Specialist Named in Forbes 30 Under 30 List of Innovators</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										2 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/missions/hubble/hubble-celebrates-30th-anniversary-of-servicing-mission-1/" class="color-carbon-black" rel="noopener">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/07/28049538271-c676480e85-o-1.jpg" ></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">8 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">Hubble Celebrates 30th Anniversary of Servicing Mission 1</h3></div>
+																	<p class="p-md color-carbon-60">In the pre-dawn hours on Dec. 2, 1993, the space shuttle Endeavour launched from Kennedy&hellip;</p>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										5 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/missions/hubble/hubble-views-a-double-cluster-of-glowing-galaxies/" class="color-carbon-black" rel="noopener">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" loading="lazy" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/11/hubble-abell3192-potw2348a.jpg" ></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">3 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">Hubble Views a Double Cluster of Glowing Galaxies</h3></div>
+																	<p class="p-md color-carbon-60">This Hubble image features a massive cluster of brightly glowing galaxies, first identified as Abell 3192.&hellip;</p>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										5 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+							</div>
+		</section>
+		</div>]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>Moon Meets Up with Jupiter, Saturn</title>
+            <link>https://www.nasa.gov/image-article/moon-meets-up-with-jupiter-saturn/</link>
+
+            <dc:creator><![CDATA[Monika Luabeya]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 19:03:42 +0000</pubDate>
+            <category><![CDATA[Earth's Moon]]></category>
+            <category><![CDATA[Jupiter]]></category>
+            <category><![CDATA[Saturn]]></category>
+            <category><![CDATA[Skywatching]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?post_type=image-article&#038;p=575041</guid>
+
+            <description><![CDATA[The Moon, left, Saturn, upper right, and Jupiter, lower right, are seen after sunset from Washington, DC, on Dec. 17, 2020. The two planets drew closer to each other in the sky as they headed towards a “great conjunction” on Dec. 21, where the two giant planets appeared a tenth of a degree apart. View [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><img loading="lazy" width="2048" height="1290" src="https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="The night sky is deep blue, framed at bottom left by leafless trees branches. At top left, the Moon glows. Saturn and Jupiter are visible at upper right and upper left, respectively." decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg 5568w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=300,189 300w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=768,484 768w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=1024,645 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=1536,967 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=2048,1290 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=400,252 400w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=600,378 600w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=900,567 900w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=1200,756 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/nhq202012170001orig.jpg?resize=2000,1259 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">NASA/Aubrey Gemignani</div></figcaption></div></div></div>
+
+
+<p>The Moon, left, Saturn, upper right, and Jupiter, lower right, are seen after sunset from Washington, DC, on Dec. 17, 2020. The two planets drew closer to each other in the sky as they headed towards a <a href="https://www.nasa.gov/solar-system/the-great-conjunction-of-jupiter-and-saturn/">“great conjunction”</a> on Dec. 21, where the two giant planets appeared a tenth of a degree apart. <a href="https://www.nasa.gov/image-detail/saturn-and-jupiter-conjunction-3/">View and download the full image here.</a></p>
+
+
+
+<p><a href="https://plus.nasa.gov/video/whats-up-december-2023-skywatching-tips-from-nasa/" rel="noopener">See skywatching highlights, including meteor, asteroid, and planet sightings in What&#8217;s Up for Dec. 2023.</a></p>
+
+
+
+<p><em>Image Credit: NASA/Aubrey Gemignani</em></p>
+]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>NASA Leaders to Highlight 25th Anniversary of Space Station with Crew</title>
+            <link>
+                https://www.nasa.gov/news-release/nasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew/</link>
+
+            <dc:creator><![CDATA[Roxana Bardan]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 16:55:34 +0000</pubDate>
+            <category><![CDATA[Humans in Space]]></category>
+            <category><![CDATA[International Space Station (ISS)]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?post_type=press-release&#038;p=574951</guid>
+
+            <description><![CDATA[NASA is celebrating the 25th anniversary of International Space Station operations during a live conversation with crew aboard the microgravity laboratory for the benefit of humanity. During a space-to-Earth call at 12:25 p.m. EST Wednesday, Dec. 6, the Expedition 70 crew will speak with NASA Associate Administrator Bob Cabana and Joel Montalbano, space station program [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><img loading="lazy" width="2048" height="1365" src="https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" decoding="async" style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/space-station-for-25-anniversary.jpg?resize=2000,1333 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">(Nov. 8, 2021) &#8212; The International Space Station is pictured from the SpaceX Crew Dragon Endeavour during a fly around of the orbiting lab that took place following its undocking from the Harmony module’s space-facing port on Nov. 8, 2021.</div><div class="hds-credits">NASA/SpaceX</div></figcaption></div></div></div>
+
+
+<p>NASA is celebrating the 25th anniversary of International Space Station operations during a live conversation with crew aboard the microgravity laboratory for the benefit of humanity. During a space-to-Earth call at 12:25 p.m. EST Wednesday, Dec. 6, the Expedition 70 crew will speak with NASA Associate Administrator Bob Cabana and Joel Montalbano, space station program manager.</p>
+
+
+
+<p>Watch on the NASA+ streaming service at no cost on demand. The discussion also will air live on NASA Television, the <a href="https://www.nasa.gov/apps/">NASA app</a>, <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2F%40NASA&amp;data=05%7C01%7Ckelly.o.humphries%40nasa.gov%7C3c8f834399594752ca1708dbd18b3e04%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638334168212220074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=sYT0HVhck2AtS7sE4anRsNgKdxjRzKYIZqi9vnjEbgc%3D&amp;reserved=0" rel="noopener">YouTube</a><a></a>, and the agency’s<a> </a><a href="https://www.nasa.gov/nasatv/">website</a>. Learn how to <a href="https://www.nasa.gov/general/how-to-stream-nasa-tv/">stream NASA TV</a> through a variety of platforms including social media.</p>
+
+
+
+<p>On Dec. 6, 1998, the first two elements of the orbital outpost, Unity and Zarya, were attached by crew members of space shuttle Endeavour’s STS-88 mission. Cabana was the commander of the mission and the first American to enter the space station.</p>
+
+
+
+<p>Through this global endeavor, astronauts have continuously lived and worked aboard the space station for more than 23 years, testing technologies, performing science, and developing the skills needed to explore farther from Earth. It has been visited by 273 people from 21 countries.</p>
+
+
+
+<p>More than 3,300 research and educational investigations have been conducted on station from 108 countries and areas. Many of these research and technology investigations benefit people on Earth, and many lay the groundwork for future commercial destinations in low Earth orbit and exploration farther into the solar system. Together with <a href="http://www.nasa.gov/artemis">Artemis</a> missions to the Moon, these proving grounds will help prepare NASA for future human exploration of Mars.</p>
+
+
+
+<p>Learn more about the International Space Station at:</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.nasa.gov/station">https://www.nasa.gov/station</a></p>
+
+
+
+<p class="has-text-align-center">-end-</p>
+
+
+
+<p>Josh Finch<br>Headquarters, Washington<br>202-358-1100<br><a href="mailto:joshua.a.finch@nasa.gov">joshua.a.finch@nasa.gov</a></p>
+
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+	<div class="grid-row grid-container maxw-widescreen padding-0">
+		<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Share</h2>
+				</div>
+				<div class="padding-bottom-2">
+					<ul class="social-icons social-icons-round">
+						<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=NASA%20Leaders%20to%20Highlight%2025th%20Anniversary%20of%20Space%20Station%20with%20Crew&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew%2F" aria-label="Share on X.">
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew%2F" aria-label="Share on Facebook.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.nasa.gov%2Fnews-release%2Fnasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew%2F" aria-label="Share on LinkedIn.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>
+							</a>
+						</li>
+						<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed.">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+			<div class="padding-top-3 border-top-1px border-color-carbon-black">
+				<div class="margin-bottom-2">
+					<h2 class="heading-14">Details</h2>
+				</div>
+				<div class="grid-row margin-bottom-3">
+					<div class="grid-col-4">
+						<div class="subheading">Last Updated</div>
+					</div>
+					<div class="grid-col-8">Dec 05, 2023</div>
+				</div>
+			<div class="grid-row"><div class="grid-col-4"><div class="subheading">Location</div></div><div class="grid-col-8"><a class="hds-location-tag-name" href="https://www.nasa.gov/nasa-headquarters/"><span class="hds-meta-heading">NASA Headquarters</span></a></div></div>			</div>
+		</div>
+	<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0"><div class="padding-top-3 border-top-1px border-color-carbon-black "><div class="margin-bottom-2"><h2 class="heading-14">Related Terms</h2></div><ul class="article-tags"><li class="article-tag"><a href="https://www.nasa.gov/humans-in-space/">Humans in Space</a></li><li class="article-tag"><a href="https://www.nasa.gov/international-space-station/">International Space Station (ISS)</a></li></ul></div></div>
+	</div>
+</section>
+	</div>]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>Digging Deeper to Find Life on Ocean Worlds</title>
+            <link>
+                https://science.nasa.gov/science-research/science-enabling-technology/digging-deeper-to-find-life-on-ocean-worlds/</link>
+
+            <dc:creator><![CDATA[]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 14:30:00 +0000</pubDate>
+            <category><![CDATA[Planetary Science]]></category>
+            <category><![CDATA[Science-enabling Technology]]></category>
+            <category><![CDATA[Technology Highlights]]></category>
+            <guid isPermaLink="false">
+                https://science.nasa.gov/science-research/science-enabling-technology/digging-deeper-to-find-life-on-ocean-worlds/</guid>
+
+            <description><![CDATA[In February 2023, researchers from around the country gathered at a NASA-sponsored workshop to discuss the latest developments and a roadmap for a cryobot mission concept to drill through the icy crusts of Europa and Enceladus and search for life.]]></description>
+            <content:encoded><![CDATA[<div id="" class="hds-article-hero-header nasa-gb-align-full bg-carbon-90 width-full maxw-full color-mode-dark hds-module hds-module-full wp-block-nasa-blocks-article-hero-header">
+<div class="hds-cover-wrapper width-full maxw-full minh-tablet grid-container minh-tablet flex-column padding-0">
+<div class="hds-foreground-wrapper display-flex flex-direction-column">
+<div class="grid-container grid-container-block margin-top-auto width-full maxw-desktop-lg padding-y-9 padding-x-3 desktop:padding-x-0 z-400">
+<div class="z-400 grid-col-12 tablet:grid-col-12 desktop:grid-col-7 z-400">
+<div class="margin-0">
+<div class="label color-spacesuit-white margin-bottom-2">7 Min Read</div>
+<h1 class="heading-41 line-height-md color-spacesuit-white-important">
+								Digging Deeper to Find Life on Ocean Worlds							</h1>
+</p></div>
+</p></div>
+<div class="grid-col-12 tablet:grid-col-12 desktop:grid-col-5"></div>
+<div class="skrim-overlay skrim-left mobile-skrim-top z-200"></div>
+<figure class="hds-media-background  "><img fetchpriority="high" width="1071" height="1536" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?w=1071" class="attachment-1536x1536 size-1536x1536" alt="a cross section depicting three regions: a dark bottom ocean region with a silver cylindrical probe, a middle icy section with blue swirls through which the probe’s tether travels, and a top image depicting the surface on which is perched a lander vehicle with multiple legs and an antenna. In the background behind the lander, a multicolored planet dominates the sky." decoding="async" style="transform: scale(1.2); transform-origin: 48% 24%; object-position: 48% 24%; object-fit: cover;" block_context="nasa-block" srcset="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg 1870w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=209,300 209w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=768,1101 768w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=714,1024 714w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1071,1536 1071w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1428,2048 1428w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=279,400 279w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=418,600 418w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=628,900 628w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=837,1200 837w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1394,2000 1394w" sizes="(max-width: 1071px) 100vw, 1071px" loading="eager" /></figure>
+</p></div>
+</p></div>
+</p></div>
+<div class="padding-y-3 padding-x-3">
+<div class="grid-container grid-container-block padding-x-0"><figcaption class="hds-caption maxw-mobile">
+<div class="hds-caption-text p-sm margin-0 color-carbon-30">
+<div><figcaption>Conceptual image of a Cryobot mission lander.</figcaption></div>
+</p></div>
+<div class="hds-credits color-spacesuit-white-important">
+						<span>Credits: </span><br />
+						<span>NASA/JPL-Caltech</span>
+					</div>
+</figcaption></div>
+</p></div>
+</p></div>
+</p>
+<h4 class="wp-block-heading">SNAPSHOT</h4>
+<p>In February 2023, researchers from around the country gathered at a NASA-sponsored workshop to discuss the latest developments and a roadmap for a cryobot mission concept to drill through the icy crusts of Europa and Enceladus and search for life.</p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><img loading="lazy" width="2048" height="1430" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="A long, brown, cylindrical structure penetrates blue water; a beam of gold light projected from the side of the structure toward the surface." decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg 2331w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=300,210 300w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=768,536 768w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=1024,715 1024w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=1536,1073 1536w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=2048,1430 2048w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=400,279 400w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=600,419 600w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=900,629 900w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=1200,838 1200w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot1.jpg?resize=2000,1397 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">Figure 1 Conceptual image of a cryobot breaching into the ocean of Europa and searching for signs of life. </div>
+<div class="hds-credits">Credit: NASA/JPL-Caltech</div>
+</figcaption></div>
+</div>
+</div>
+<p>“Follow the water” has been the mantra of the astrobiology community in search of alien life in the universe. Water is a fundamental building block of all terrestrial life as we know it and—as discovered by various space missions—water is abundant throughout the solar system, and perhaps, the universe. Ancient eroded features on Mars show clear evidence of a wet history, and the ongoing quest of the <a href="https://mars.nasa.gov/mars2020/" rel="noopener">Perseverance rover</a> aims to uncover clues as to whether or not Mars once hosted a population of microbes. However, there is only so much we can learn from the fossil record. To truly understand the nature of possible alien life, we must directly investigate the source—the <em>liquid</em> water.</p>
+<p>Enter “Ocean Worlds.” Over the past two decades, scientists have discovered that a vast number of icy moons orbit the outer giant planets in our solar system. Many of these moons show strong evidence for harboring global oceans beneath their icy crusts.  In fact, these moons likely have far more liquid water than all of Earth’s oceans combined, and some may even have the right conditions to foster life. Two moons, in particular, have captured the imaginations of astrobiologists due to their amenable conditions for life and their relative ease of interrogation: Jupiter’s moon, Europa and Saturn’s moon, Enceladus. Both show strong evidence of a global subsurface ocean beneath a kilometers-thick water-ice crust—but how can we access this liquid water?</p>
+<p>Various concepts for ocean access have been investigated over the past decades, ranging from robots that descend through crevasses to drills of varying types. One concept that has emerged as a leading candidate is the <em>cryobot</em>. A cryobot is a self-contained cylindrical probe that uses heat to melt the ice beneath it. The melted water then flows around the probe before refreezing behind it. Thermal ice drilling is so simple and effective that it has become a common tool for studying terrestrial glaciers and ice sheets. But how can we translate this technology to a system that can penetrate planetary icy crusts, which are colder, thicker, and more uncertain?</p>
+<p>This dilemma has been a core focus of researchers—many of whom are supported by NASA’s Scientific Exploration Subsurface Access Mechanism for Europa (SESAME) and Concepts for Ocean worlds Life Detection Technology (COLDTech) programs—for the past several years. In February 2023, NASA’s Planetary Exploration Science Technology Office (<a href="https://www1.grc.nasa.gov/space/pesto/" rel="noopener">PESTO</a>) convened a workshop at the California Institute of Technology, which brought together nearly 40 top researchers from diverse fields and institutions around the country to discuss progress in maturing this technology and to assess the challenges that remain.  Recent studies have made significant progress in refining our understanding of the ice shell environment, detailing a mission architecture, and maturing critical subsystems and technologies. In particular, workshop participants identified four key subsystems that drive the roadmap for developing a flight-ready architecture: the power, thermal, mobility, and communication subsystems.</p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><img loading="lazy" width="1428" height="2048" src="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?w=1428" class="attachment-2048x2048 size-2048x2048" alt="a cross section depicting three regions: a dark bottom ocean region with a silver cylindrical probe, a middle icy section with blue swirls through which the probe’s tether travels, and a top image depicting the surface on which is perched a lander vehicle with multiple legs and an antenna. In the background behind the lander, a multicolored planet dominates the sky." decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg 1870w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=209,300 209w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=768,1101 768w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=714,1024 714w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1071,1536 1071w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1428,2048 1428w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=279,400 279w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=418,600 418w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=628,900 628w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=837,1200 837w, https://smd-cms.nasa.gov/wp-content/uploads/2023/12/cryobot2.jpg?resize=1394,2000 1394w" sizes="(max-width: 1428px) 100vw, 1428px" /></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">Figure 2 Conceptual image of the Cryobot mission profile. A lander deploys a nuclear-powered probe, which melts through the ice shell to access the ocean below. A tether and wireless transceivers are deployed behind the probe during its descent for communication.</div>
+<div class="hds-credits">Credit: NASA/JPL-Caltech</div>
+</figcaption></div>
+</div>
+</div>
+<p>First, the heart of a cryobot is a nuclear power system that generates the sustained heat required to melt through kilometers of ice. Various nuclear power systems that could suit a cryobot system have been identified, including the familiar Radioisotope Power Systems (RPS) that have powered many deep-space missions, and fission reactors that may be developed in the coming years. Two key constraints that drive the power system design are: (1) sufficient total power and density to facilitate efficient melting (about 10 kW), and (2) integration within a structural vessel to protect the power system from the high pressures of the deep ocean. These challenges are both solvable and have some historical precedent: NASA’s Cassini mission had a 14 kW thermal power system, and several Radioisotope Thermoelectric Generators (RTGs) were deployed to the bottom of the ocean in the 1960s and 1970s as power sources for navigation beacons, which operated in comparable pressures to the Europan ocean. However, a cryobot power system will require a concerted effort and close collaboration with the Department of Energy throughout the maturation of the mission concept.</p>
+<p>Second, a thermal management system is required to manage the heat produced by the onboard nuclear power system, maintain safe internal temperatures, and distribute heat to the environment for efficient performance. This system requires two independent pumped fluid circuits: one that circulates an internal working fluid through channels embedded in the skin and another that circulates melted ice water with the surounding environment. Some of these technologies have been demonstrated at reduced and full scale, but more work is needed to validate performance at the range of ice conditions expected in the outer solar system.</p>
+<p>In addition, the icy shells of Europa and Enceladus will contain impurities such as dust and salt, which, when sufficiently concentrated, may require auxilliary systems to penetrate. A combination of “water jetting” and mechanical cutting has been demonstrated to be effective at clearing debris ranging from fine particulate to solid blocks of salt from beneath the probe. Some impurities such as larger rocks, voids, or water bodies may remain impenetrable, requiring the cryobot to incorporate a downward-looking mapping sensor and steering mechanism—both of which have been demonstrated in terrestrial prototypes, though not yet in an integrated system. High-priority future work includes a more rigorous and probabilistic definition of the icy environments to quantify the likelihood of potential mobility hazards, and an integrated demonstration of hazard mitigation systems on a flight-like cryobot system. Europa Clipper will also provide key observations to constrain the prevalence and characteristics of hazards for a cryobot.</p>
+<p>Finally, a cryobot mission requires a robust and redundant communication link through the ice shell to enable the lander to relay data to an orbiting relay asset or directly to Earth. Fiber optic cables are the industry standard for communicating with terrestrial melt probes and deep-sea vehicles, but require careful validation for deployment through ice shells, which are active. The movement of ice in these shells could break the cable. <a href="https://science.nasa.gov/technology/technology-highlights/sending-signals-through-the-ice-on-ocean-worlds" rel="noopener">A team led by Dr. Kate Craft at the Johns Hopkins Applied Physics Laboratory has been investigating the propensity of tethers embedded in ice to break during ice-shear events, as well as methods to mitigate such breakage.</a> While preliminary results from this study are highly encouraging, other teams are exploring wireless techniques for communicating through the ice, including radio frequency, acoustic, and magnetic transceivers.  These communication systems must be integrated onto the aft end of the probe and depoyed during its descent. Current projects funded under the NASA COLDTech program are taking the first steps toward addressing key risks for the communications system. Future work must validate performance across a broader range of conditions and demonstrate integration on a cryobot.</p>
+<p>While the power, thermal, mobility, and communication subsystems took center stage, workshop participants also discussed other key systems and technologies that will require maturation to enable a cryobot mission. These topics include an integrated instrument suite with accommodations for liquid sampling and outward-facing apertures, planetary protection and sterilization strategies, materials selection for corrosion mitigation, ice-anchoring mechanisms, and autonomy. However, none of these technologies were identified as major risks or challenges in the cryobot mission concept roadmap.</p>
+<p>Overall, the consensus finding of workshop participants was that this mission concept remains feasible, scientifically compelling, and the most plausible near-term way to directly search for life in situ on an ocean world. Continued support would allow scientists and engineers to make even further progress toward readying cryobots for future mission opportunities. The potential for the direct detection of life on another world seems more possible than ever.</p>
+<p>This research was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004).</p>
+<h4 class="wp-block-heading">PROJECT LEAD</h4>
+<p>Dr. Benjamin Hockman, Jet Propulsion Laboratory, California Institute of Technology</p>
+<h4 class="wp-block-heading">SPONSORING ORGANIZATION</h4>
+<p>NASA’s Planetary Exploration Science Technology Office (PESTO)</p>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 article_a hds-module hds-module-full wp-block-nasa-blocks-credits-and-details">	<!-- This should be a block --></p>
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Share</h2>
+</div>
+<div class="padding-bottom-2">
+<ul class="social-icons social-icons-round">
+<li class="social-icon social-icon-twitter  social-icon-x">
+							<a href="https://x.com" aria-label="Link to X."><br />
+							<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-facebook">
+							<a href="https://facebook.com" aria-label="Link to Facebook." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-linkedin">
+							<a href="https://linkedin.com" aria-label="Link to LinkedIn." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-share">
+							<a href="https://rss.com" aria-label="Link to RSS." rel="noopener"><br />
+								<svg height="512pt" viewBox="-21 0 512 512" width="512pt" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="m453.332031 85.332031c0 38.292969-31.039062 69.335938-69.332031 69.335938s-69.332031-31.042969-69.332031-69.335938c0-38.289062 31.039062-69.332031 69.332031-69.332031s69.332031 31.042969 69.332031 69.332031zm0 0"/><path d="m384 170.667969c-47.0625 0-85.332031-38.273438-85.332031-85.335938 0-47.058593 38.269531-85.332031 85.332031-85.332031s85.332031 38.273438 85.332031 85.332031c0 47.0625-38.269531 85.335938-85.332031 85.335938zm0-138.667969c-29.417969 0-53.332031 23.9375-53.332031 53.332031 0 29.398438 23.914062 53.335938 53.332031 53.335938s53.332031-23.9375 53.332031-53.335938c0-29.394531-23.914062-53.332031-53.332031-53.332031zm0 0"/><path d="m453.332031 426.667969c0 38.289062-31.039062 69.332031-69.332031 69.332031s-69.332031-31.042969-69.332031-69.332031c0-38.292969 31.039062-69.335938 69.332031-69.335938s69.332031 31.042969 69.332031 69.335938zm0 0"/><path d="m384 512c-47.0625 0-85.332031-38.273438-85.332031-85.332031 0-47.0625 38.269531-85.335938 85.332031-85.335938s85.332031 38.273438 85.332031 85.335938c0 47.058593-38.269531 85.332031-85.332031 85.332031zm0-138.667969c-29.417969 0-53.332031 23.9375-53.332031 53.335938 0 29.394531 23.914062 53.332031 53.332031 53.332031s53.332031-23.9375 53.332031-53.332031c0-29.398438-23.914062-53.335938-53.332031-53.335938zm0 0"/><path d="m154.667969 256c0 38.292969-31.042969 69.332031-69.335938 69.332031-38.289062 0-69.332031-31.039062-69.332031-69.332031s31.042969-69.332031 69.332031-69.332031c38.292969 0 69.335938 31.039062 69.335938 69.332031zm0 0"/><path d="m85.332031 341.332031c-47.058593 0-85.332031-38.269531-85.332031-85.332031s38.273438-85.332031 85.332031-85.332031c47.0625 0 85.335938 38.269531 85.335938 85.332031s-38.273438 85.332031-85.335938 85.332031zm0-138.664062c-29.417969 0-53.332031 23.933593-53.332031 53.332031s23.914062 53.332031 53.332031 53.332031c29.421875 0 53.335938-23.933593 53.335938-53.332031s-23.914063-53.332031-53.335938-53.332031zm0 0"/><path d="m135.703125 245.761719c-7.425781 0-14.636719-3.863281-18.5625-10.773438-5.824219-10.21875-2.238281-23.253906 7.980469-29.101562l197.949218-112.851563c10.21875-5.867187 23.253907-2.28125 29.101563 7.976563 5.824219 10.21875 2.238281 23.253906-7.980469 29.101562l-197.953125 112.851563c-3.328125 1.898437-6.953125 2.796875-10.535156 2.796875zm0 0"/><path d="m333.632812 421.761719c-3.585937 0-7.210937-.898438-10.539062-2.796875l-197.953125-112.851563c-10.21875-5.824219-13.800781-18.859375-7.976563-29.101562 5.800782-10.238281 18.855469-13.84375 29.097657-7.976563l197.953125 112.851563c10.21875 5.824219 13.800781 18.859375 7.976562 29.101562-3.945312 6.910157-11.15625 10.773438-18.558594 10.773438zm0 0"/></svg><br />
+							</a>
+						</li>
+</ul></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Details</h2>
+</div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Last Updated</div>
+</p></div>
+<div class="grid-col-8">
+					Dec 05, 2023				</div>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black ">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Related Terms</h2>
+</div>
+<ul class="article-tags">
+<li class="article-tag"><a href="https://science.nasa.gov/planetary-science/" rel="noopener">Planetary Science</a></li>
+<li class="article-tag"><a href="https://science.nasa.gov/technology" rel="noopener">Science-enabling Technology</a></li>
+<li class="article-tag"><a href="https://science.nasa.gov/technology-highlights/" rel="noopener">Technology Highlights</a></li>
+</ul></div>
+</p></div>
+</p></div>
+</section></div>
+]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>NASA Helps Create Space for All Through Mentorship</title>
+            <link>
+                https://www.nasa.gov/centers-and-facilities/kennedy/nasa-helps-create-space-for-all-through-mentorship/</link>
+
+            <dc:creator><![CDATA[Jason Costa]]></dc:creator>
+            <pubDate>Tue, 05 Dec 2023 14:23:47 +0000</pubDate>
+            <category><![CDATA[Kennedy Space Center]]></category>
+            <category><![CDATA[Office of Diversity and Equal Opportunity (ODEO)]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?p=574747</guid>
+
+            <description><![CDATA[Meeting members of the Artemis generation often inspires NASA’s workforce as much as it encourages the students themselves. For one recent group of students, a visit to the agency’s Kennedy Space Center in Florida brought mentorship, new experiences, and inspiration for answering the profound questions of our universe. The 22 students traveled to the world’s [&#8230;]]]></description>
+            <content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><img loading="lazy" width="2048" height="1365" src="https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="Students participate in the 21st annual Disability Mentoring Day on Tuesday, Nov. 14, 2023, at NASA’s Kennedy Space Center in Florida." decoding="async" style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" srcset="https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg 6720w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2023/12/ksc-20231114-ph-geb01-0001.jpg?resize=2000,1333 2000w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Students participate in the 21st annual Disability Mentoring Day on Tuesday, Nov. 14, 2023, at NASA’s Kennedy Space Center in Florida. The visiting students paired with mentors from Kennedy based on interests spanning from public affairs to engineering, shadowing them to learn about their respective day-to-day duties at the spaceport. Mentors shared experiences and insight on their path to NASA and provided learning opportunities to students looking to kickstart their career development.</div><div class="hds-credits">NASA/Glenn Benson</div></figcaption></div></div></div>
+
+
+<p>Meeting members of the Artemis generation often inspires NASA’s workforce as much as it encourages the students themselves. For one recent group of students, a visit to the agency’s Kennedy Space Center in Florida brought mentorship, new experiences, and inspiration for answering the profound questions of our universe.</p>
+
+
+
+<p>The 22 students traveled to the world’s preeminent spaceport on Nov. 14 for the 21st annual Disability Mentoring Day hosted at Kennedy by the Disability Awareness and Action Working Group (DAAWG). Students were paired with a mentor based on interests spanning communication to engineering. Mentors shared experiences and insight on their path to NASA and provided learning opportunities to students hoping to kickstart their career development.</p>
+
+
+
+<p>“As a first-year mentor, it’s hard to capture the spirit of Disability Mentoring Day with words,” said NASA Public Affairs Officer Danielle Sempsrott. “Seeing how excited these kids were to be here at Kennedy, learning what we do, was amazing. One of the students asked us to keep them in mind for any job openings in the future. It’s really cool knowing we made them feel welcome and maybe sparked an interest that may not have been there before.”</p>
+
+
+
+<p>At Kennedy, teams of diverse people collaborate to do groundbreaking work across a wide range of programs. Event organizers hope that mentoring day will inspire the Artemis generation, who are still in school today, to enter the NASA orbit in any number of career fields.</p>
+
+
+
+<p>“When I was a young kid, I didn’t have this opportunity to participate in any disability mentoring day,” said DAAWG Co-Chair Nicole Delvesco and NASA cost accountant who has a cochlear implant. “If I had, I know I would have felt better about myself, would have had a lot more confidence to achieve a lot more than I already have.”</p>
+
+
+
+<p>The mentoring day is just one activity that helps further NASA Kennedy’s diversity, equity, accessibility, and inclusion goals. DAAWG also serves as an advocate for the center’s employees with disabilities and disabled veterans, advises the Center Director on matters relating to employees with disabilities, and serves as a resource to the Office of Diversity and Equal Opportunity and other directorates.</p>
+
+
+
+<p>Other programs like National Disability Employment Awareness Month, which occurs every October, celebrates the accomplishments and achievements of all individuals with disabilities.&nbsp;The U.S. Congress created the observance in 1988 to raise awareness of disability employment needs and to celebrate the many and varied contributions of individuals with all types of disabilities.</p>
+
+
+
+<p>“It is important for people to learn about different disabilities – hidden or visible,” said Paul Spann, the Disability Mentoring Day event lead who is a NASA accountant with a cochlear implant. “Most individuals with disabilities that I know will work harder to show their capabilities and always look for ways to prove themselves &#8211; I personally have had to do this throughout my career to remove doubts from people. It’s important that everyone understand how to focus on the strengths of individuals with disabilities in the workplace.”</p>
+]]></content:encoded>
+
+
+        </item>
+        <item>
+            <title>Expedition 68 Crew With Three NASA Astronauts to Discuss Mission</title>
+            <link>
+                https://www.nasa.gov/news-release/expedition-68-crew-with-three-nasa-astronauts-to-discuss-mission/</link>
+
+            <dc:creator><![CDATA[Wendy K. Avedisian]]></dc:creator>
+            <pubDate>Mon, 04 Dec 2023 22:51:40 +0000</pubDate>
+            <category><![CDATA[Johnson Space Center]]></category>
+            <guid isPermaLink="false">https://www.nasa.gov/?post_type=press-release&#038;p=574624</guid>
+
+            <description><![CDATA[Dec. 4, 2023 MEDIA ADVISORY: M23-001 Four astronauts, including the current record-holder for the longest single stay in space aboard the International Space Station, will make their first public appearance in Houston since returning to Earth. The crew will be available for interviews at 5 p.m. CST Wednesday, Dec. 6, at Space Center Houston. NASA [&#8230;]]]></description>
+            <content:encoded><![CDATA[
+<p>Dec. 4, 2023</p>
+
+
+
+<p><strong>MEDIA ADVISORY: M23-001</strong></p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><img loading="lazy" width="1844" height="1581" src="https://www.nasa.gov/wp-content/uploads/2023/03/meatball-e1688775948667.png?w=1844" class="attachment-2048x2048 size-2048x2048" alt="NASA logo" decoding="async" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" /></figure></div></div></div>
+
+
+<p>Four astronauts, including the current record-holder for the longest single stay in space aboard the <a href="https://www.nasa.gov/mission_pages/station/main/index.html">International Space Station</a>, will make their first public appearance in Houston since returning to Earth. The crew will be available for interviews at 5 p.m. CST Wednesday, Dec. 6, at Space Center Houston.</p>
+
+
+
+<p>NASA astronauts <a href="https://www.nasa.gov/astronauts/biographies/nicole-a-mann/biography">Nicole Mann</a>, <a href="https://www.nasa.gov/astronauts/biographies/josh-a-cassada/biography">Josh Cassada</a>, and <a href="https://www.nasa.gov/people/frank-rubio/">Frank Rubio</a>, along with JAXA (Japan Aerospace Exploration Agency) astronaut <a href="https://humans-in-space.jaxa.jp/en/astronaut/wakata-koichi/" rel="noopener">Koichi Wakata</a>, will be at NASA Johnson Space Center’s visitor center to share highlights from their missions during a free, public event at 6:15 p.m. At 7:40 p.m., the crew will help recognize key contributors to its mission success in an awards ceremony.</p>
+
+
+
+<p>Reporters may request an in-person interview no later than 12 p.m. Dec. 6 by emailing Dana Davis at <a href="mailto:dana.l.davis@nasa.gov">dana.l.davis@nasa.gov</a>. &nbsp;</p>
+
+
+
+<p><strong>Crew-5</strong></p>
+
+
+
+<p>NASA’s SpaceX Crew mission launched in October 2022 with Mann, Cassada, and Wakata, as well as Roscosmos cosmonaut Anna Kikina, on the fifth commercial crew rotation mission to the International Space Station. The crew spent 157 days aboard the space station, traveled 66,577,531 miles, and completed 2,512 Earth orbits, splashing down off the coast of Tampa, Florida, on March 11. This was the first spaceflight for Mann, Cassada, and Kikina. It was the fifth flight for Wakata who has now logged a total of 505 days in space.</p>
+
+
+
+<p><strong>Soyuz Crew</strong><br>The international crew that flew on the Soyuz spacecraft served on Expeditions 68 and 69 aboard the space station. The flight launched on the Soyuz MS-22 spacecraft in September 2022 with Rubio and Roscosmos cosmonauts Sergey Prokopyev and Dmitri Petelin. The crew spent 371 days aboard the space station, traveled 157,412,306 statute miles, and completed 5,963 Earth orbits, landing in Kazakhstan aboard the Soyuz MS-23 spacecraft on Sept. 27, 2023. This was the second spaceflight for Prokopyev and Petelin. This was Rubio’s first spaceflight mission and it broke the U.S. record for a single spaceflight by an American.</p>
+
+
+
+<p>While on the station, the crew members conducted important scientific investigations and helped maintain the orbiting laboratory. While aboard they tested hydroponic and aeroponic techniques to grow <a href="https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=8088">plants</a> without using soil, studied how <a href="https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=8736">liquids</a> move in a container in simulated lunar gravity to generate data to improve Moon rover designs, and tested an <a href="https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=8521">on-demand system&nbsp;</a>to produce specific quantities of key nutrients from yogurt, kefir, and a yeast-based beverage. The crew also released Uganda and Zimbabwe’s <a href="https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=8847">first satellites</a>.</p>
+
+
+
+<p>Stay current on space station activities by following <a href="https://twitter.com/space_station" rel="noopener">@space_station</a> and <a href="https://twitter.com/ISS_Research" rel="noopener">@ISS_Research</a> on Twitter, as well as the station <a href="https://www.facebook.com/ISS" rel="noopener">Facebook</a> and <a href="https://www.instagram.com/ISS/" rel="noopener">Instagram</a> accounts and the <a href="https://blogs.nasa.gov/spacestation/" rel="noopener">space station blog</a>.</p>
+
+
+
+<p class="has-text-align-center">-end-</p>
+
+
+
+<p>Chelsey Ballarte<br>Johnson Space Center, Houston<br>281-483-5111<br><a href="mailto:chelsey.n.ballarte@nasa.gov">chelsey.n.ballarte@nasa.gov</a><br><br>Dana Davis<br>Johnson Space Center, Houston<br>281-244-0933<br><a href="mailto:dana.l.davis@nasa.gov">dana.l.davis@nasa.gov</a></p>
+]]></content:encoded>
+
+
+        </item>
+    </channel>
+</rss>
